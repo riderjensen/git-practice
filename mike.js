@@ -1,4 +1,4 @@
 const me = {
-    name: 'Mike'
+    name: 'Mike',
     weight: 185
 }
