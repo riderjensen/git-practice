@@ -1,0 +1,3 @@
+const rigo = {
+  name: 'rigo'
+}
