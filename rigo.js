@@ -1,3 +1,4 @@
 const rigo = {
-  name: 'rigo'
+  name: 'rigo',
+  job: 'Developer'
 }
