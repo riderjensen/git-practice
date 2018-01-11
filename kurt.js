@@ -1,4 +1,6 @@
 const me = {
     name: 'Kurt',
-    weight: 485
+    weight: 485,
+    color: red,
+    skills: insane,
 }
